@@ -26,7 +26,7 @@ The final output is a trained Random Forest model and a Python script that can b
 ---
 
 ## 📂 Project Structure
-
+```bash
 fraud-detection-project/
 │
 ├── data/
@@ -52,7 +52,7 @@ fraud-detection-project/
 │ └── figures/
 │
 └── requirements.txt
-
+```
 ---
 
 ## 🚀 Getting Started
