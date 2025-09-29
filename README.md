@@ -2,7 +2,7 @@
 
 This project demonstrates an end-to-end machine learning workflow for detecting fraudulent credit card transactions. It leverages a highly imbalanced and anonymized dataset to showcase real-world data handling, feature engineering, model comparison, and optimization techniques.
 
-The final output is a trained Random Forest model and a Python script that can be used to predict fraud on new, unseen transaction data.
+The final output is a trained Random Forest model and a Python script that can be used to predict fraud on new, unseen transaction data
 
 ---
 
