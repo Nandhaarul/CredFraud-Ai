@@ -5,5 +5,5 @@ joblib
 argparse
 matplotlib
 seaborn
-xgboost
 imbalanced-learn
+xgboost
